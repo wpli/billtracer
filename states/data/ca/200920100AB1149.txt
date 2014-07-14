@@ -1,0 +1,32 @@
+Assembly Bill
+							
+										No. 1149	
+									CHAPTER 139 An act to amend Section 87500.1 of the Government Code, relating to the Political Reform Act of 1974. 
+						
+							[
+								Approved  by
+							
+							Governor  
+						 August 05, 2009.
+									
+								Filed with 
+							
+							Secretary of State  
+						 August 06, 2009.
+									]
+						LEGISLATIVE COUNSEL'S DIGESTAB 1149, Davis.
+											  Political Reform Act of 1974: electronic filing.Existing law authorizes the Counties of Los Angeles, Merced, Orange, and Stanislaus to participate in a pilot program to permit the electronic filing of statements of economic interests. Existing law authorizes the pilot program from January 1, 2009, to January 1, 2012, inclusive, for the reporting years of 2008 to 2011, inclusive, and requires a county participating in the pilot program to submit a report to the Fair Political Practices Commission containing specified information regarding the electronic filing process no later than July 1, 2011. The Fair Political Practices Commission is then required to transmit these reports to the Legislative Analyst’s Office, which is required to provide a report evaluating the program to the Legislature no later than March 1, 2012. Existing law prohibits certain elected officials from participating in the pilot program, as prescribed.This bill would limit the reporting years
+		included in the pilot program to 2008 to 2010, inclusive. This bill would also change the date on which the Legislative Analyst must report to the Legislature regarding the pilot program from March 1, 2012, to February 1, 2012.The Political Reform Act of 1974, an initiative measure, provides that the Legislature may amend the act to further the act’s purposes upon a 2/3 vote of each house and compliance with specified procedural requirements.This bill would declare that it furthers the purposes of the act.Digest Key
+				Vote:
+				2/3  
+				Appropriation:
+				NO  
+					Fiscal Committee:
+					NO  
+				Local Program:
+                                NO  Bill TextThe people of the State of California do enact as follows:SECTION 1. Section 87500.1 of the Government Code is amended to read:87500.1. (a) The Counties of Los Angeles, Merced, Orange, and Stanislaus may permit the electronic filing of a statement of economic interests required by Article 3 (commencing with Section 87300) in accordance with regulations adopted by the Commission. Each participating county shall use the standard form for electronic filing found online, as required by the Commission.(b) A public official subject to Article 2 (commencing with Section 87200) shall not participate in the pilot program.(c) A statement filed electronically must include an electronic transmission that is submitted under penalty of perjury and that conforms to subdivision (b) of Section 1633.11 of the Civil Code.(d) (1) The filing officer shall issue to a person who electronically files his or her statement of economic interests or amendment electronic confirmation that notifies the filer that his or her statement of economic interests or amendment was received. The confirmation shall include the date and the time that the statement of economic interests was received by the filing officer and the method by which the filer may view and print the data received by the filing officer.(2) A paper copy retained by the filer of a statement of economic interests or amendment that was electronically filed and the confirmation issued pursuant to paragraph (1) that shows that the filer timely filed his or her statement of economic interests or amendment shall create a rebuttable presumption that the filer filed his or her statement of economic interests or amendment on time.(e) The filing officer shall utilize a system that includes firewalls, data encryption, secure authentication, and all necessary hardware and software and industry best practices to ensure that the security and integrity of the data and information contained in the statement of economic interests are not jeopardized or compromised.(f) The filing officer shall provide the public with a copy of an official’s statement of economic
+				  interests upon request, in accordance with Section 81008. The paper copy of the electronically filed statement of economic interests shall be identical to the statement of economic interests published by the
+				  Commission and shall include the date that the statement was filed.(g) (1) The pilot program shall commence on or after January 1, 2009, and shall be completed by January 1, 2012. The pilot program shall include the reporting periods of 2008 through 2010. A county participating in the pilot program shall submit a report to the Commission not later than July 1, 2011. The report shall include the following:(A) A listing and
+				  estimate of associated operational efficiencies and related savings.(B) A listing and estimate of associated costs from implementing and operating the pilot program.(C) A listing of safety, security, or privacy issues encountered and explanation of how those issues were addressed.(D) Available information relating to feedback from electronic filing participants.(E) Any other relevant information on the implementation of the pilot program.(2) The Commission shall transmit the county
+				  reports received, as well as any comments on the reports, to the Legislative Analyst’s Office not later than August 15, 2011. The Legislative Analyst’s Office shall provide a report to the Legislature evaluating the pilot program not later than February 1, 2012.(h) The Commission, in conjunction with the Legislative Analyst’s Office, may develop additional criteria for the report to be submitted to the
+				  Commission by participating counties pursuant to paragraph (1) of subdivision (g).(i) This section shall remain in effect until March 1, 2012, and as of that date is repealed, unless a later enacted statute, which is enacted before March 1, 2012, deletes or extends that date.SEC. 2. The Legislature finds and declares that this bill furthers the purposes of the Political Reform Act of 1974 within the meaning of subdivision (a) of Section 81012 of the Government Code.

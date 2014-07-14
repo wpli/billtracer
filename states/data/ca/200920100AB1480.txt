@@ -1,0 +1,16 @@
+CALIFORNIA LEGISLATURE— 
+								2009–2010 REGULAR SESSION
+								Assembly Bill
+							No. 1480Introduced  by 
+							Assembly Member
+						TranFebruary 27, 2009 An act to amend Section 234 of the Public Utilities Code, relating to telecommunications. LEGISLATIVE COUNSEL'S DIGESTAB 1480, as introduced, Tran.
+											  Telephone corporations.Under existing law, the Public Utilities Commission has regulatory authority over public utilities, including telephone corporations, as defined.This bill would provide that the definition of a telephone corporation does not include any service using voice communication technology primarily to allow individual users to navigate and retrieve information from the Internet, as defined.Digest Key
+				Vote:
+				MAJORITY  
+				Appropriation:
+				NO  
+					Fiscal Committee:
+					NO  
+				Local Program:
+                                NO  Bill TextThe people of the State of California do enact as follows:SECTION 1. Section 234 of the Public Utilities Code is amended to read:234. (a) “Telephone corporation” includes every corporation or person owning, controlling, operating, or managing any telephone line for compensation within this state.(b) “Telephone corporation” does not include any of the following:(1) Any hospital, hotel, motel, or similar place of temporary accommodation owning or operating message switching or billing equipment solely for the purpose of reselling services provided by a telephone corporation to its patients or guests.(2) Any one-way paging service utilizing facilities that are licensed by the Federal Communications Commission, including, but not limited to, narrowband personal communications services described in Subpart D (commencing with Section 24.100) of Part 24 of Title 47 of the Code of
+				  Federal Regulations, as in effect on June 13, 1995.(3) Any service using voice communication technology primarily to allow individual users to navigate and retrieve information from the Internet, as defined in Section 22947 of the Business and Professions Code.
