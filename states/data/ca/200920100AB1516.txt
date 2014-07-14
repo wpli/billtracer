@@ -1,0 +1,31 @@
+Assembly Bill
+							
+										No. 1516	
+									CHAPTER 297 An act to amend Section 1054.3 of the Penal Code, relating to criminal procedure. 
+						
+							[
+								Approved  by
+							
+							Governor  
+						 October 11, 2009.
+									
+								Filed with 
+							
+							Secretary of State  
+						 October 11, 2009.
+									]
+						LEGISLATIVE COUNSEL'S DIGESTAB 1516, Lieu.
+											  Criminal procedure: discovery.Existing law provides that no discovery shall occur in criminal cases except as provided by statute or as mandated by the Constitution of the United States. Under existing law, a defendant and his or her attorney are required to disclose to the prosecuting attorney any reports or statements of experts made in connection with the case, including the results of physical or mental examinations, scientific tests, experiments, or comparisons which the defendant intends to offer in evidence at the trial.This bill would allow the court to order a defendant in a criminal action or a minor in a juvenile delinquency proceeding to submit to examination by a prosecution-retained mental health expert whenever a defendant or minor, as
+		specified, places in issue his or her mental state at any phase of the criminal action or juvenile proceeding through the proposed testimony of any mental health expert. The bill would require the prosecuting attorney to submit a list of the tests he or she proposes to have a prosecution-retained expert conduct on the defendant or minor and would require the court, upon the request of the defendant or minor, to hold a hearing to consider any objections to the proposed tests. The bill would require the court to make a threshold determination before ordering the defendant to submit to the examination that the proposed tests bear some reasonable relation to the mental state placed in issue by the defendant or minor. The bill would specify that its purpose is to respond to Verdin v. Superior Court (2008) 43 Cal.4th 1096, as specified.This bill would amend
+		Proposition 115, an initiative statute adopted by the voters at the June 5, 1990, statewide primary election, which provides that its provisions may be amended by the Legislature by a 2/3 vote of the membership of each house.Digest Key
+				Vote:
+				2/3  
+				Appropriation:
+				NO  
+					Fiscal Committee:
+					NO  
+				Local Program:
+                                NO  Bill TextThe people of the State of California do enact as follows:SECTION 1. Section 1054.3 of the Penal Code is amended to read:1054.3. (a) The defendant and his or her attorney shall disclose to the prosecuting attorney:(1) The names and addresses of persons, other than the defendant, he or she intends to call as witnesses at trial, together with any relevant written or recorded statements of those persons, or reports of the statements of those persons, including any reports or statements of experts made in connection with the case, and including the results of physical or mental examinations, scientific tests, experiments, or comparisons which the defendant intends to offer in evidence at the trial.(2) Any real evidence which the defendant intends to offer in evidence at the trial.(b) (1) Unless otherwise specifically addressed by an existing provision of law, whenever a defendant in a criminal action or a minor in a juvenile proceeding brought pursuant to a petition alleging the juvenile to be within Section 602 of the Welfare and Institutions Code places in issue his or her mental state at any phase of the criminal action or juvenile proceeding through the proposed testimony of any mental health expert, upon timely request by the prosecution, the court may order that the defendant or juvenile submit to examination by a prosecution-retained mental health expert.(A) The prosecution shall bear the cost of any such mental health expert’s fees
+				  for examination and testimony at a criminal trial or juvenile court proceeding.(B) The prosecuting attorney shall submit a list of tests proposed to be administered by the prosecution expert to the defendant in a criminal action or a minor in a juvenile proceeding. At the request of the defendant in a criminal action or a minor in a juvenile proceeding, a hearing shall be held to consider any objections raised to the proposed tests before any test is administered. Before ordering that the defendant submit to the examination, the trial court must make a threshold determination that the proposed tests bear some reasonable relation to the mental state placed in issue by the defendant in a criminal action or a minor in a juvenile
+				  proceeding. For the purposes of this subdivision, the term “tests” shall include any and all assessment techniques such as a clinical interview or a mental status examination.(2) The purpose of this subdivision is to respond to Verdin v. Superior Court 43 Cal.4th 1096, which held that only the Legislature may authorize a court to order the appointment of a prosecution mental health expert when a defendant has placed his or her mental state at issue in a criminal case or juvenile proceeding pursuant to Section 602 of the Welfare and Institutions Code. Other than authorizing the court to order testing by prosecution-retained mental health experts in response to Verdin v. Superior Court, supra, it is not the intent of the Legislature to disturb, in
+				  any way, the remaining body of case law governing the procedural or substantive law that controls the administration of these tests or the admission of the results of these tests into evidence.

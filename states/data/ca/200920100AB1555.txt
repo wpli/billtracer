@@ -1,0 +1,30 @@
+Assembly Bill
+							
+										No. 1555	
+									CHAPTER 24An act to amend Section 281 of the Public Utilities Code, relating to telecommunications, and declaring the urgency thereof, to take effect immediately.
+						
+							[
+								Approved  by
+							
+							Governor  
+						 July 29, 2009.
+									
+								Filed with 
+							
+							Secretary of State  
+						 July 29, 2009.
+									]
+						LEGISLATIVE COUNSEL'S DIGESTAB 1555, V. Manuel Perez.
+											  Telecommunications: California Advanced Services Fund.Under existing law, the Public Utilities Commission has regulatory authority over public utilities, including telephone corporations. Existing law authorizes the commission to supervise and regulate every public utility and do all things necessary and convenient in the exercise of its power and jurisdiction.Existing law, until January 1, 2013, establishes the California Advanced Services Fund (CASF) in the State Treasury, and requires a surcharge, which is imposed by the commission and collected through retail telecommunications customers’ bills, to be deposited in that fund, for the purpose of encouraging the deployment of advanced communications services, as provided in a specified order of the commission. Pursuant to that order, which establishes a program providing matching funds to build broadband infrastructure in unserved and underserved areas, eligible applicants for these funds are telephone corporations having
+		a specified certificate from the commission and wireless carriers subject to registration with the commission.This bill would, for the sole purpose of providing matching funds pursuant to the federal American Recovery and Reinvestment Act of 2009, make any entity eligible for funding pursuant to that act eligible to apply for participation in the matching funds program if that entity otherwise satisfies the eligibility requirements under the program.This bill would declare that it is to take effect immediately as an urgency statute.Digest Key
+				Vote:
+				2/3  
+				Appropriation:
+				NO  
+					Fiscal Committee:
+					NO  
+				Local Program:
+                                NO  Bill TextThe people of the State of California do enact as follows:SECTION 1. Section 281 of the Public Utilities Code, as added by Section 4 of Chapter 393 of the Statutes of 2008, is amended to read:281. (a) The commission shall develop, implement, and administer the California Advanced Services Fund to encourage deployment of high-quality advanced communications services to all Californians that will promote economic growth, job creation, and the substantial social benefits of advanced information and communications technologies, as provided in Decision 07-12-054.(b) (1) All moneys collected by the surcharge authorized by the commission pursuant to that decision, whether collected before or after January 1, 2009, shall be transmitted to the commission pursuant to a schedule established by the commission. The commission shall transfer the moneys received to the Controller for deposit in the California
+				  Advanced Services Fund.(2) All interest earned on moneys in the fund shall be deposited in the fund.(3) The commission may not collect moneys, by imposing the surcharge described in paragraph (1) for deposit in the fund, in an amount that exceeds a total amount of one hundred million dollars ($100,000,000).(c) (1) Any moneys appropriated from the California Advanced Services Fund to the commission may only be expended for the program administered by the commission pursuant to subdivision (a), including the costs incurred by the commission in developing, implementing, and administering the program and the fund.(2) Notwithstanding any other law and for the sole purpose of providing matching funds pursuant to the federal American
+				  Recovery and Reinvestment Act of 2009 (Public Law 111-5), any entity eligible for funding pursuant to that act shall be eligible to apply to participate in the program administered by the commission pursuant to subdivision (a), if that entity otherwise satisfies the eligibility requirements under that program. Nothing in this section shall impede the ability of an incumbent local exchange carrier, as defined by subsection (h) of Section 251 of Title 47 of the United States Code, that is regulated under a rate of return regulatory structure, to recover, in rate base, California infrastructure investment not provided through federal or state grant funds for facilities that provide broadband service and
+				  California intrastate voice service.(d) The commission shall conduct both a financial audit and a performance audit of the implementation and effectiveness of the California Advanced Services Fund to ensure that funds have been expended in accordance with the approved terms of the winning bids and this section. The commission shall report its findings to the Legislature by December 31, 2010. The report shall also include an update to the maps in the final report of the California Broadband Task Force.(e) This section shall remain in effect only until January 1, 2013, and as of that date is repealed, unless a later enacted statute, that is enacted before January 1, 2013, deletes or extends that date.SEC. 2. This act is an urgency statute necessary for the immediate preservation of the public peace, health, or safety within the meaning of Article IV of the Constitution and shall go into immediate effect. The facts constituting the necessity are:In order to provide for the use of federal matching funds for broadband programs, made available pursuant to the American Recovery and Reinvestment Act of 2009 (Public Law 111-5), at the earliest possible time, it is necessary that this act take effect immediately.

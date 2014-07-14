@@ -1,0 +1,29 @@
+Assembly Bill
+							
+										No. 1163	
+									CHAPTER 8 An act to amend Sections 953 and 957 of the Evidence Code, and to amend Section 12252 of the Probate Code, relating to attorney-client privilege.
+						
+							[
+								Approved  by
+							
+							Governor  
+						 June 29, 2009.
+									
+								Filed with 
+							
+							Secretary of State  
+						 June 29, 2009.
+									]
+						LEGISLATIVE COUNSEL'S DIGESTAB 1163, Tran.
+											  Attorney-client privilege: decedent’s estates.(1) Under existing law, a client of a lawyer has a privilege to refuse to disclose, and to prevent another from disclosing, a confidential communication between the client and lawyer if the privilege is claimed by the holder of the privilege, a person who is authorized to claim the privilege by the holder, or the person who was the lawyer at the time of the confidential communication. However, the lawyer may not claim the privilege if there is no holder of the privilege in existence or if he or she is otherwise instructed by a person authorized to permit disclosure. “Holder of the privilege” is defined for purposes of these provisions to include the client, a guardian or conservator of the client, the personal representative of the client if the client is dead, and a successor, assign, trustee in dissolution, or any similar representative of a firm, association,
+		organization, partnership, business trust, corporation, or public entity that is no longer in existence.This bill would clarify that the personal representative of a client that is dead, and who is appointed for purposes of subsequent estate administration pursuant to the provisions described in (3) below, is a holder of the privilege.(2) Under existing law, there is no lawyer-client privilege as to a communication relevant to an issue between parties all of whom claim through a deceased client, regardless of whether the claims are by testate or intestate succession or by inter vivos transaction.This bill would clarify that this exception also applies when any of the parties claims under a nonprobate transfer.(3) Under existing law, if subsequent administration of an estate is necessary after the personal representative has been discharged either because other property is discovered, or disclosure is sought of a communication that is deemed privileged in the absence of a waiver by a personal representative, as specified, or because it becomes necessary or proper for any other cause, the court is required to appoint as personal representative the person entitled to appointment and to give notice of the hearing of the appointment to the person who served as personal representative at the time of the order of discharge and to other interested persons, as specified. Existing law requires the appointed personal representative to be a holder of the decedent’s lawyer-client privilege, as specified.This bill would delete the requirement that the appointed personal representative be a holder of the decedent’s
+		lawyer-client privilege. The bill also would delete the requirement that the court perform these functions when subsequent administration of an estate is necessary after the personal representative has been discharged because disclosure is sought of a communication that is deemed privileged in the absence of a waiver by a personal representative.Digest Key
+				Vote:
+				MAJORITY  
+				Appropriation:
+				NO  
+					Fiscal Committee:
+					NO  
+				Local Program:
+                                NO  Bill TextThe people of the State of California do enact as follows:SECTION 1. Section 953 of the Evidence Code is amended to read:953. As used in this article, “holder of the privilege” means:(a) The client, if the client has no guardian or conservator.(b) A guardian or conservator of the client, if the client has a guardian or conservator.(c) The personal representative of the client if the client is dead, including a
+				  personal representative appointed pursuant to Section 12252 of the Probate Code.(d) A successor, assign, trustee in dissolution, or any similar representative of a firm, association, organization, partnership, business trust, corporation, or public entity that is no longer in existence.SEC. 2. Section 957 of the Evidence Code is amended to read:957. There is no privilege under this article as to a communication relevant to an issue between parties all of whom claim through a deceased client, regardless of whether the claims are by testate or intestate succession, nonprobate transfer, or inter vivos transaction.SEC. 3. Section 12252 of the Probate Code is amended to read:12252. If subsequent administration of an estate is necessary after the personal representative has been discharged because other property is discovered or because it becomes necessary or proper for any other cause, both of the following shall apply:(a) The court shall appoint as personal representative the person entitled to appointment in the same order as is directed in relation to an original appointment, except that the person who served as personal representative at the time of the order of discharge has priority.(b) Notice of hearing of the appointment shall be given as provided in Section 1220 to the person who served as personal representative at the time of the order of discharge and to other interested persons. If property has been distributed to the State of California, a copy of any petition for subsequent appointment of a personal representative and the notice of hearing shall be given as provided in Section 1220 to the Controller.
