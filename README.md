@@ -14,3 +14,5 @@ Here is a sample plot of the Emergency Economic Stabilization Act of 2008, which
 <img src="http://projects.csail.mit.edu/legalgenome/images/tarp.png">
 
 The text reuse and visualization technique is largely adopted from "[Tracing the Flow of Policy Ideas in Legislatures: A Text Reuse Approach](http://faculty.washington.edu/jwilker/PolicyIdeasJan162014.pdf)" by John Wilkerson, David Smith, and Nick Stramp. 
+
+To contribute to this project, we are using feature branching.
